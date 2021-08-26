@@ -1,6 +1,6 @@
 <h1> Hi, I’m @j-ricardo :) </h1> 
 <spam>- I'm passionate by programming language and electronic;</spam><br/>
-<spam>- Always studing new tecnologies (much curious 👀), actualy learning web full stack with Gama Academy and data science;</spam><br/>
+<spam>- Always studing new tecnologies (much curious 👀), actualy learning web full stack and data science;</spam><br/>
 <spam>- How to reach me:</spam> <br/>
 <ul>
 <li><a href="https://www.linkedin.com/in/jricardo0293/">Linkedin</a></li>
